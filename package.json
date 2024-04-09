@@ -1,0 +1,19 @@
+{
+  "name": "1.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Hello world": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliiaTok/JS1.2.git"
+  },
+  "author": "Julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliiaTok/JS1.2/issues"
+  },
+  "homepage": "https://github.com/YuliiaTok/JS1.2#readme"
+}
