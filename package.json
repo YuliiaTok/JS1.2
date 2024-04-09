@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "Hello world": "echo \"Error: no test specified\" && exit 1"
+    "start": "node qa.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuliiaTok/JS1.2.git"
+    "url": "https://github.com/YuliiaTok/JS1.2.git"
   },
   "author": "Julia",
   "license": "ISC",
